@@ -30,7 +30,7 @@ const DUMMY_EXPENSES = [
     id: 3,
     title: "Slippers",
     amount: 200,
-    date: new Date(1970, 12, 13),
+    date: new Date(2021, 5, 3),
     location: "Delhi",
   },
 ];
